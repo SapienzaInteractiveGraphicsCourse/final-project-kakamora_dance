@@ -1,0 +1,30 @@
+{
+  "name": "final-project-kakamora_dance",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000f\u0000i\u0000n\u0000a\u0000l\u0000-\u0000p\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000-\u0000k\u0000a\u0000k\u0000a\u0000m\u0000o\u0000r\u0000a\u0000_\u0000a\u0000n\u0000i\u0000m\u0000a\u0000t\u0000i\u0000o\u0000n\u0000_\u0000-\u0000p\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000\r\u0000 \u0000",
+  "main": "Final.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SapienzaInteractiveGraphicsCourse/final-project-kakamora_dance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SapienzaInteractiveGraphicsCourse/final-project-kakamora_dance/issues"
+  },
+  "homepage": "https://github.com/SapienzaInteractiveGraphicsCourse/final-project-kakamora_dance#readme",
+  "devDependencies": {
+    "@babylonjs/core": "^4.2.0",
+    "webpack": "^5.52.0",
+    "webpack-cli": "^4.8.0",
+    "webpack-dev-server": "^4.2.0"
+  },
+  "dependencies": {
+    "babylonjs": "^4.2.0",
+    "esm": "^3.2.25",
+    "three": "^0.132.2"
+  }
+}
